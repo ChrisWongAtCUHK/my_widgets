@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'views/home.dart';
 import 'views/time.dart';
+import 'views/text.dart';
 
 void main() => runApp(const MyApp());
 
@@ -18,6 +19,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => const HomeScreen(),
         '/time': (context) => const TimeScreen(),
+        '/text': (context) => const TextScreen(),
       },
     );
   }

@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 # [Flutter / Dart 跨平台App開發體驗](https://ithelp.ithome.com.tw/users/20089214/ironman/3872)
 ## [Flutter體驗 Day 6-Widget State](https://ithelp.ithome.com.tw/articles/10262135)
 ## [Flutter體驗 Day 7-State生命週期](https://ithelp.ithome.com.tw/articles/10262145)
+## [Flutter體驗 Day 8-開始玩積木](https://ithelp.ithome.com.tw/articles/10263750)

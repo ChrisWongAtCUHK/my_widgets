@@ -4,6 +4,7 @@ import 'views/time.dart';
 import 'views/text.dart';
 import 'views/image.dart';
 import 'views/button.dart';
+import 'views/form.dart';
 
 void main() => runApp(const MyApp());
 
@@ -24,6 +25,7 @@ class MyApp extends StatelessWidget {
         '/text': (context) => const TextScreen(),
         '/image': (context) => const ImageScreen(),
         '/button': (context) => const ButtonScreen(),
+        '/form': (context) => const FormScreen(),
       },
     );
   }

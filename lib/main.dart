@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'views/home.dart';
 import 'views/time.dart';
 import 'views/text.dart';
+import 'views/image.dart';
 
 void main() => runApp(const MyApp());
 
@@ -20,6 +21,7 @@ class MyApp extends StatelessWidget {
         '/': (context) => const HomeScreen(),
         '/time': (context) => const TimeScreen(),
         '/text': (context) => const TextScreen(),
+        '/image': (context) => const ImageScreen(),
       },
     );
   }

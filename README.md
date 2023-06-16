@@ -22,3 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 ## [Flutter體驗 Day 9-Button組件](https://ithelp.ithome.com.tw/articles/10263751)
 ## [Flutter體驗 Day 10-表單組件](https://ithelp.ithome.com.tw/articles/10263753)
 ## [Flutter體驗 Day 11-日期時間組件](https://ithelp.ithome.com.tw/articles/10263754)
+## [Flutter體驗 Day 12-線性佈局](https://ithelp.ithome.com.tw/articles/10263755)

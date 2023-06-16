@@ -34,6 +34,10 @@ class HomeScreen extends StatelessWidget {
               title: const Text('DatetimePicker'),
               onTap: () => Navigator.pushNamed(context, '/datetimepicker'),
             ),
+            ListTile(
+              title: const Text('Layout'),
+              onTap: () => Navigator.pushNamed(context, '/layout'),
+            ),
           ],
         ),
       ),

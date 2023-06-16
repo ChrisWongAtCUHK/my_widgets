@@ -6,6 +6,7 @@ import 'views/image.dart';
 import 'views/button.dart';
 import 'views/form.dart';
 import 'views/datetimepicker.dart';
+import 'views/layout.dart';
 
 void main() => runApp(const MyApp());
 
@@ -28,6 +29,7 @@ class MyApp extends StatelessWidget {
         '/button': (context) => const ButtonScreen(),
         '/form': (context) => const FormScreen(),
         '/datetimepicker': (context) => const DateTimePickerScreen(),
+        '/layout': (context) => const LayoutScreen(),
       },
     );
   }

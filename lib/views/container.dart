@@ -71,7 +71,7 @@ class _ContainerScreen extends State<ContainerScreen> {
               ),
               borderRadius: BorderRadius.circular(4),
             ),
-            transform: Matrix4.rotationZ(0.2),
+            transform: Matrix4.rotationZ(0.1),
             child: Image.asset(
               'images/xFrame.jpg',
             ),
